@@ -1,5 +1,5 @@
 # Cards-Display-App
-Create a new C# project in Visual Studio called ‘Assessment2A’.  Create a Form that has 4 PictureBox controls and 4 Buttons.  In the Student Data Files, go to ‘Images>Cards >Poker – Large’ and choose any 4 images.  Set the PictureBoxes to display the card images, then make the PictureBoxes invisible. 
+Create a Form that has 4 PictureBox controls and 4 Buttons.  In the Student Data Files, go to ‘Images>Cards >Poker – Large’ and choose any 4 images.  Set the PictureBoxes to display the card images, then make the PictureBoxes invisible. 
 
 Set up the Buttons so that they show the names of the cards you chose (‘7 of Diamonds’, ‘Jack’, ‘Ace of Hearts’, etc.), and when the user clicks on a Button, the appropriate PictureBox (the one that is set to that card) will become visible.  Cards should remain visible - if a user clicks three Buttons, then at that point three PictureBoxes will be visible. 
 
