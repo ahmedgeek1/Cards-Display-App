@@ -1,0 +1,18 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\bin\Debug\Assessment2A.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\bin\Debug\Assessment2A.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\bin\Debug\Assessment2A.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.Form1.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\Assessment2A\Assessment2A\obj\Debug\Assessment2A.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\bin\Debug\Assessment2A.exe.config
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.exe
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\bin\Debug\Assessment2A.exe
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\bin\Debug\Assessment2A.pdb
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.Form1.resources
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\NWTC\C Sharp\Homeworks - Assignments\Week 1 Assignments\Assessment2A\Assessment2A\obj\Debug\Assessment2A.csproj.GenerateResource.Cache
